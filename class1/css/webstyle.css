@@ -1,0 +1,79 @@
+header{
+background-color: aquamarine;
+margin-top:10px;
+}
+
+header ul li{
+    display: inline-block;
+padding:5px;
+/* border: 1px solid green; */
+
+}
+header ul{
+    text-align: center;
+    margin-top: -7px;
+    padding:15px;
+    margin-left: 500px;
+}
+
+section{
+
+    margin:0px 15px;
+}
+
+section p{
+    text-align: justify;
+}
+section h1,h2,h3{
+
+    background-color: brown;
+    text-align: center;
+    margin: 0 200px;
+}
+/* img{ 
+
+    width:806px; */
+
+.footer{
+
+    background-color: aqua;
+   padding :15px;
+}
+
+footer p{
+
+    text-align: center;
+}
+/* .shibu{
+text-align:center
+;
+   padding:10px 0px;
+
+    margin:10px px;
+} */
+a {
+    text-decoration: none;
+}
+/* .contactform{
+    border: 1px solid green;
+} */
+
+.formdiv{
+
+    margin: 10px 100px;
+    border: 10px solid green;
+    background-color: bisque;
+}
+.contactform{
+    /* border: 10px solid green;  */
+    margin: 3px 179px;
+
+}
+
+.contacta{
+
+    background-color: blue;
+    /* margin-left: 86px; */
+    text-align: center;
+    color: white;
+}

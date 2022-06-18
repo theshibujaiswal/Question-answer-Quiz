@@ -1,0 +1,47 @@
+*{
+    box-sizing: border-box;
+}
+.container1{
+
+border:5px solid yellow;
+/* clear: both; */
+}
+.container2{
+
+background-color: aqua ;
+    float: left;
+    width: 25%;
+    padding: 10px;
+    text-align: justify;
+}
+
+.container3{
+    float: left;
+    background-color: blue;
+    width: 25%;
+    padding: 10px;
+    text-align: justify;
+}
+.container4{
+    float: left;
+
+    background-color: aliceblue;
+    width: 25%;
+    padding: 10px;
+    text-align: justify;
+}
+.container5{
+    float: left;
+    background-color: blueviolet;
+    width: 25%;
+    padding: 10px;
+
+    text-align: justify;
+
+}
+
+.container1::after{
+    content: "";
+    display:block;
+clear: both;
+}

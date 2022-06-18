@@ -1,0 +1,84 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;300;400;500&display=swap');
+/* *{
+    padding: opx;
+    margin: 0px;
+    box-sizing: border-box;
+} */
+body{
+
+    font-family: font-family: 'Montserrat', sans-serif;
+}
+
+header{
+    /* background-color: blueviolet; */
+
+  
+}
+.header{
+    /* border: 2px solid yellow; */
+    padding: 0px 117px;
+}
+header .nav-bar{
+    /* border: 5px solid green; */
+    margin: -20px -30px;
+}
+.banner{
+    background-image: url('../images/hero_banner.jpg');
+height: 50vh;
+background-position: center;
+background-repeat: no-repeat;
+margin-bottom:  5px;
+height: 138px;
+width: 573px;
+
+    
+}
+
+.header .header-right{
+    float: left;
+}
+.header .header-left{
+    float: right;
+}
+.header .nav-bar::after{
+    content: "";
+    display: block;
+    clear: both;
+}
+
+.nav-bar .body-div{
+    max-width: 1200px;
+    width: 90%;
+    margin: 0px auto;
+    background-color: aqua;
+    
+}
+header .top{
+    height: 200vh;
+    /* background-color: aqua; */
+}
+
+.content p{
+    font-size: 10px;
+}
+.content{
+    padding-top: 10px;
+    /* border: 2px solid blue; */
+}
+.content p a{
+    color:#ec883a
+}
+
+.dowload .as{
+    display: block;
+    padding: 0px 10px ;
+    text-align: center;
+}
+
+
+
+
+
+
+
+

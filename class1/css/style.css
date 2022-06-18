@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+body{
+    font-family: font-family: 'Roboto', sans-seri;
+}
+.main-section{
+    background-color:green;
+}
+.shibu{
+    background-color:white;
+}
+   h1,h2,h3{
+       background-color: black;
+       color: white;
+   }
+   p{
+       color:black
+   }
+   span{
+       background-color: blue;
+   }

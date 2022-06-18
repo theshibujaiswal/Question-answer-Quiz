@@ -1,0 +1,31 @@
+h1{
+    background-color: green;
+    text-align: center;
+    margin: 20px;
+}
+section.about-me,section.about-us{
+    border: 5px solid rgb(44, 29, 180);
+    margin: 20px;
+    position: relative;
+}
+.about-me {
+    margin-bottom: 20px;
+}
+
+span
+{
+
+    background-color: rgb(221, 55, 130);
+    text-align: center;
+}
+    
+.header {
+    position: absolute;
+ left: 48%;
+ padding: 2px;
+
+}
+
+p{
+margin-top: 20px;
+}
